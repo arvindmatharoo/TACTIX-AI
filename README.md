@@ -65,7 +65,7 @@ These models are used for:
 
 ## Dataset
 
-The project uses the **European Soccer Database** (https://www.kaggle.com/datasets/hugomathien/soccer) , containing historical football match data across multiple European leagues.
+The project uses the [**European Soccer Database**](https://www.kaggle.com/datasets/hugomathien/soccer) , containing historical football match data across multiple European leagues.
 
 Feature engineering was performed to create tactical indicators such as:
 
@@ -165,7 +165,7 @@ docker run -p 8501:8501 tactix-ai
 
 
 ## Live Deployment 
-The deployed web application is available at : [LINK] (https://tactix-ai.streamlit.app/)
+The deployed web application is available at : [LINK](https://tactix-ai.streamlit.app/)
 
 ## Use Cases
 It can be useful for : 
